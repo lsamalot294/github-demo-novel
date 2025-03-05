@@ -5,3 +5,4 @@ again
 Adding a 3rd time to chapter 2 to add, then to commit. 
 
 Adding more to check if git commit -m "text" still workds.
+Adding more to check if git commit works without -more
