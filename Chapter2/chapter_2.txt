@@ -1,4 +1,6 @@
-
+==========
+CHAPTER 2
+==========
 
 Adding to chapter_2
 again
